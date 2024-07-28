@@ -1,4 +1,11 @@
-# CODETECH-task2
+Name: NAGATEJASWI BUDAGALA
+Company: CODETECH IT SOLUTIONS
+ID: CT08DS4980
+Dpomain: ARTIFICIAL INTELLIGENCE
+Duration: JULY TO AUGUST 2024
+Mentor: Muzammil Ahmed
+
+OVERVIEW OF THE PROJECT:
 
 Image classification is a fundamental task in computer vision where the goal is to assign a label or class to an image. This process involves using a pre-trained model or training a new model on a dataset to recognize patterns and features in the images.
 Steps in Image Classification:
